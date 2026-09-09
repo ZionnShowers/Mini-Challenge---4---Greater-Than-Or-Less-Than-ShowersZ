@@ -1,0 +1,28 @@
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 4 - Greater Than Or Less Than\bin\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.exe
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 4 - Greater Than Or Less Than\bin\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.deps.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 4 - Greater Than Or Less Than\bin\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.runtimeconfig.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 4 - Greater Than Or Less Than\bin\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.dll
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 4 - Greater Than Or Less Than\bin\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.pdb
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 4 - Greater Than Or Less Than\obj\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 4 - Greater Than Or Less Than\obj\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.AssemblyInfoInputs.cache
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 4 - Greater Than Or Less Than\obj\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.AssemblyInfo.cs
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 4 - Greater Than Or Less Than\obj\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.csproj.CoreCompileInputs.cache
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 4 - Greater Than Or Less Than\obj\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.dll
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 4 - Greater Than Or Less Than\obj\Debug\net10.0\refint\Mini Challenge # 4 - Greater Than Or Less Than.dll
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 4 - Greater Than Or Less Than\obj\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.pdb
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 4 - Greater Than Or Less Than\obj\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.genruntimeconfig.cache
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 4 - Greater Than Or Less Than\obj\Debug\net10.0\ref\Mini Challenge # 4 - Greater Than Or Less Than.dll
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 4 - Greater Than Or Less Than ShowersZ\bin\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.exe
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 4 - Greater Than Or Less Than ShowersZ\bin\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.deps.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 4 - Greater Than Or Less Than ShowersZ\bin\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.runtimeconfig.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 4 - Greater Than Or Less Than ShowersZ\bin\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.dll
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 4 - Greater Than Or Less Than ShowersZ\bin\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.pdb
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 4 - Greater Than Or Less Than ShowersZ\obj\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 4 - Greater Than Or Less Than ShowersZ\obj\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.AssemblyInfoInputs.cache
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 4 - Greater Than Or Less Than ShowersZ\obj\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.AssemblyInfo.cs
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 4 - Greater Than Or Less Than ShowersZ\obj\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.csproj.CoreCompileInputs.cache
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 4 - Greater Than Or Less Than ShowersZ\obj\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.dll
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 4 - Greater Than Or Less Than ShowersZ\obj\Debug\net10.0\refint\Mini Challenge # 4 - Greater Than Or Less Than.dll
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 4 - Greater Than Or Less Than ShowersZ\obj\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.pdb
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 4 - Greater Than Or Less Than ShowersZ\obj\Debug\net10.0\Mini Challenge # 4 - Greater Than Or Less Than.genruntimeconfig.cache
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 4 - Greater Than Or Less Than ShowersZ\obj\Debug\net10.0\ref\Mini Challenge # 4 - Greater Than Or Less Than.dll
