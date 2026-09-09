@@ -2,8 +2,15 @@
 //9-9-2026
 //Mini Challenge # 4 - Greater Than Or Less Than
 //I made the user type in two different numbers and save them as strings. I then made the code convert the strings into integers. I then used a lot of else if statements to correctly calculate the integers. Afterwards, the program says if the two numbers are greater, lesser, or equal to each other
-//Peer Review:
-//Review:
+//Peer Review:Callen Thomason
+/*
+review: 
+The program works as intended. Variables are clear and make sense. 
+Good job taking user input and converting it into integer
+Good use of if statments but you could have used fewer using some >< logic. If one side is true the other side must be also. 
+Great flow chart, the code matches up
+*/ 
+
 
 Console.Clear(); //Setup
 
